@@ -21,19 +21,11 @@ softwareOwned:
 # List of software the public organization uses
 # Each item refers to the repository URL of the software
 softwareUsed:
+  - 'https://github.com/ibissource/iaf'
+  - 'https://github.com/ibissource/zaakbrug'
 
-  
 
 # List of software the public organization supports
 # Each item is a maintenance object representing the support provided for a software
 softwareSupported:
-  - 'https://github.com/ibissource/iaf'
-    type: 'maintenance' # The type of support provided
-    contact:
-      email: 'info@wearefrank.nl'
-      phone: '+31 10 340 5010'
-  - 'https://github.com/ibissource/zaakbrug'
-    type: 'maintenance' # The type of support provided
-    contact:
-      email: 'info@wearefrank.nl'
-      phone: '+31 103405010'
+
