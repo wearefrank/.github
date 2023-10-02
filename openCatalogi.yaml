@@ -22,10 +22,14 @@ softwareOwned:
 # Each item refers to the repository URL of the software
 softwareUsed:
   - 'https://github.com/ibissource/iaf'
-  - 'https://github.com/ibissource/zaakbrug'
 
 
 # List of software the public organization supports
 # Each item is a maintenance object representing the support provided for a software
 softwareSupported:
+  - 'https://github.com/wearefrank/zaakbrug'
+    type: 'maintenance' 
+    contact:
+      email: 'info@wearefrank.nl' # Public contact email
+      phone: '+31 10 340 5010' # Public contact phone number
 
