@@ -1,4 +1,4 @@
-![WeAreFrank! Banner](banner.png)
+![WeAreFrank! Banner](https://github.com/wearefrank/.github/blob/master/profile/banner.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/company/wearefrank" target="_blank">🔗 LinkedIn</a>
