@@ -3,11 +3,11 @@
 <div align="center">
   <a href="https://www.linkedin.com/company/wearefrank" target="_blank">🔗 LinkedIn</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://wearefrank.nl/en/" target="_blank">🌐 WeAreFrank!</a>
+  <a href="https://wearefrank.nl/en/?utm_source=github&utm_medium=referral" target="_blank">🌐 WeAreFrank!</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://frankacademy.nl/" target="_blank">📖 Frank!Acedamy</a>
+  <a href="https://frankacademy.nl/" target="_blank">📖 Frank!Academy</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://wearefrank.tv/" target="_blank">📺 WeAreFrank! TV</a>
+  <a href="https://youtube.com/@wearefranknl" target="_blank">📺 WeAreFrank! TV</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://blog.wearefrank.nl/en" target="_blank">📰 Blog</a>
   <hr />
@@ -29,4 +29,4 @@ Integrating IT systems and business applications. Open source, user friendly, co
 
 We are there because we believe data- and systems integration should be open, honest and transparent.
 
-Are you interested in builing connectivity solutions and becoming an expert as an Integration Specialist or Software Engineer? Take a look at [our vacancies](https://wearefrank.nl/en/careers/).
+Are you interested in builing connectivity solutions and becoming an expert as an Integration Specialist or Software Engineer? Take a look at [our vacancies](https://wearefrank.nl/en/careers/?utm_source=zaakbrug&utm_medium=referral).
