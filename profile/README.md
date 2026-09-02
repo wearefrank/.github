@@ -29,4 +29,4 @@ Integrating IT systems and business applications. Open source, user friendly, co
 
 We are there because we believe data- and systems integration should be open, honest and transparent.
 
-Are you interested in builing connectivity solutions and becoming an expert as an Integration Specialist or Software Engineer? Take a look at [our vacancies](https://wearefrank.nl/en/careers/?utm_source=zaakbrug&utm_medium=referral).
+Are you interested in building connectivity solutions and becoming an expert as an Integration Specialist or Software Engineer? Take a look at [our vacancies](https://wearefrank.nl/en/careers/?utm_source=zaakbrug&utm_medium=referral).
